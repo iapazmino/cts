@@ -8,6 +8,7 @@ url: "https://iapazmino.github.io"
 baseurl: "/cst"  # vacío si el repo es iapazmino.github.io
 
 # Configuración de Jekyll
+timezone: America/Guayaquil
 markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
