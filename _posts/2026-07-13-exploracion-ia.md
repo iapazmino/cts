@@ -28,7 +28,7 @@ Luego, están los y las profesionales que empiezan a ser medidos bajo la exigenc
 
 La longitud del último párrafo creo que me delata y deja salir la respuesta que al parecer sabía desde el principio pero me faltaba estructurar. El reto que propone para los programadores la rápida expansión de inteligencia generativa de texto, en forma de código particularmente, me atrae por varias razones, la principal es que al ser mi profesión siento esta problemática muy cercana y además porque tengo acceso a los profesionales ecuatorianos que necesitaré para dilucidar la respuesta a preguntas como: Cómo cambian las expectativas sobre un programador ecuatoriano con la presencia de la inteligencia artificial generativa? Cuáles son las habilidades que han sido necesarias desarrollar? Cuáles llegaron a estabilizarse y hacerse permanentes? Cuáles fueron descartadas?
 
-Última actualización: 2026-10-11
+<p class="last-updated">Última actualización: 11 de octubre de 2026</p>
 
 ## Referencias
 
