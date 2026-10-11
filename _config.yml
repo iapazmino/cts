@@ -5,7 +5,7 @@ author: "iapazmino"
 
 # URL base (IMPORTANTE)
 url: "https://iapazmino.github.io"
-baseurl: "/cst"  # vacío si el repo es iapazmino.github.io
+baseurl: "/cts"  # vacío si el repo es iapazmino.github.io
 
 # Configuración de Jekyll
 timezone: America/Guayaquil
