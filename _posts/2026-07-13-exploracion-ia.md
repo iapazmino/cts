@@ -1,10 +1,10 @@
 ---
-
 layout: post
 title: "Un pedazo del mundo de la IA"
 date: 2026-07-13 19:00:00 -0500
 categories: tecnología ia red socio-técnica
 tags: actualizado-2026-10-11
+---
 
 ![Red sociotécnica de innovación IA]({{ '/assets/images/read-ia.png' | relative_url }}){:.centered}
 
