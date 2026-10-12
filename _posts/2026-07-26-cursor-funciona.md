@@ -1,9 +1,10 @@
 ---
-
-## layout: post
+layout: post
 title: "Qué quiere decir que Cursor funciona"
 date: 2026-07-26 19:30:00 -0500
 categories: ia cursor ide programación scot
+tags: actualizado-2026-10-11
+---
 
 Advertencia: artículo en construcción. 
 
@@ -30,7 +31,9 @@ Cuesta 20 dólares mensuales, que es algo que puedo pagar.
 Construir un IDE desde cero es una tarea bastante grande, entonces empezaron desde un fork de la versión Open Source de VS Code (Github NixOS 2024).
 Esto tampoco es barato. La inversión inicial fue de 8 millones de dólares (TechCrunch 2023) y menos de un año después tuvo otra inversión de 60 millones más (Tech Juice 2025).
 Inicialmente los modelos disponibles eran solamente los de OpenAI y Anthropic. Luego se incorporó un modelo propio y posterior a la venta a SpaceX también Grok. (referencia de la lista de modelos y de la compra). El entrenamiento de estos modelos requiere de millones de litros de agua (referencia a los centro de datos de OpenAI y demandas por el agua)(referencia a los centros de datos de Amazon, donde corre Anthropic) para disipar el calor generado por millones chips que requieren billones de dólares (referencia a la plata que le entró a NVidia desde Openai y Microsoft) y una cantidad inmensurable de datos públicos y privados tomados sin autorización de todos lados (referencias datos de wikipedia y juicios por derechos de autor NY times). (dónde corren los modelos de Cursor, en qué infra???)( aws capaz?) 
-Y cómo un servicio tan caro se sostiene con suscripciones de 20 dólares pues gracias a los precios especiales que recibe (referencia al precio especial que le da OpenAi) (referencia a las inversiones circulares entre Nvidia, Oracle, OpenAI y otros: burbuja) 
+Y cómo un servicio tan caro se sostiene con suscripciones de 20 dólares pues gracias a los precios especiales que recibe (referencia al precio especial que le da OpenAi) (referencia a las inversiones circulares entre Nvidia, Oracle, OpenAI y otros: burbuja)
+
+<p class="last-updated">Última actualización: 11 de octubre de 2026</p>
 
 ## Referencias
 
